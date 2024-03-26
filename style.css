@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+
+    background-color: black;
+
+}
+
+.main{
+
+    background-image: url(assets/images/image\ 0.jpg);
+    height: 95vh;
+    width: 100%;
+    opacity: 0.50;
+    position:relative;
+
+    
+    
+    
+}
+ nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 80vw;
+    margin: 0px 150px;
+    height: 60px;
+    
+}
+
+nav img .logo {
+    color: aquamarine;
+}
+nav button{
+
+    position: relative;
+    z-index: 10p;
+}
+
+h1{
+height: 280px;
+    font-size: 40px;
+    color: white;
+    display: flex;
+    align-items: center;
+    margin: 0px 150px;
+    justify-content: center; 
+    position: relative
+    ;
+    z-index: auto;
+}
+
+h2{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+
+margin-bottom: 150px;
+    
+
+
+margin: -100px;}
+h3{
+
+    display: flex;
+    color: white;
+    justify-content: center;
+    font-weight: 900;
+    align-items: center;
+    margin: 120px;
+    z-index: +1px;
+}
+.separation{
+
+    height: 6px;
+    color: grey;
+    background-color: grey;
+    o
+    
+
+}
